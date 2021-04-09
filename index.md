@@ -5,6 +5,12 @@ Studies show that the quality of the information collected during an elicitation
 
 
 #  Experiment 
+The experiment consisted of 3 main parts:
+-List
+  1. Slideshow
+  2. Simulated Interview 
+  3. Self-assestment questionare 
+  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
