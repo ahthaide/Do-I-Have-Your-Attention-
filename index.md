@@ -9,7 +9,9 @@ The experiment consisted of 3 main parts:
 -List
   1. Slideshow
   2. Simulated Interview 
-  3. Self-assestment questionare 
+  3. Self-assestment questionare
+  
+  ** Slideshow**
   
 ### Markdown
 
