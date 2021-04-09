@@ -11,17 +11,22 @@ The experiment consisted of 3 main parts:
   3. Self-assestment questionare
   
   **Slideshow**
+  
   Each participant wacth a 35 picture slideshow. The slideshow consisted of calming (neutral), positive, and neagtive triggering pictures. At the end the participants were asked to answer the following questions:
   1. you are judging this image as 0 = Very Negative; 50 = Neutral; 100 = Very Positive
   2. Confronted with this image you are feeling 0 = Relaxed, 50 = Neutral, 50 = Stimulated
   
 **Simulated Interview**
+
   The interview consited of 38 questions. The questions are grouped into severn topics which are: usage, habits, privacy, relationships, money, procedure, information, and ethics. Each section consisted of multiple questions to allow the participant to immersed in the topic.
   
   **Self-Assetmet Questionare**
+  
   The participants were  asked to report their involvement using two 10-point rating scale questions.
   1.  How much did you feel involved with this topic? (1 = Not at all involved; 10 = Extremely involved)
   2.  How would you rate the quality of your involvement? (1 = Extremely negative; 10 = Extremely positive)
+
+# Tools/ Equipmet
 
 
  
