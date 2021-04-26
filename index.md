@@ -1,4 +1,4 @@
-##  Predicting Users' Engagement Using Bioffedback, Voice and Machine Learning?
+##  Predicting Users' Engagement Using Biofeedback, Voice and Machine Learning?
 **ABSTRACT:**
 
 Studies show that the quality of the information collected during an elicitation interview, and consequently the quality of the software product that needs to be developed, highly depends on the interviewee's engagement. Because of social expectations, interviewees tend to hide if they are bored or not engaged. To overcome this problem and support the analyst during the interviews, this research uses biometric data and voice features, together with supervised machine learning algorithms, to predict the interviewee's engagement. We built our solution on an experiment consisted of interviewing 31 participants. We collected the data using an Empatica wristband and a default recorder from a laptop.  After preprocessing the data and segmented them into single question/answer segments, we used part of them to train different supervised machine learning algorithms and the remaining to test the algorithms in order to evaluate their effectiveness and select the one that performs better. Our results show that both biofeedback and voice, considered individually, and machine learning can be successfully used to predict participants' engagement.  The results of our work, in addition to being used to help the analyst conduct better interviews by steering the interview based on the participant's engagement, can also be used to prioritized requirements.
@@ -14,7 +14,9 @@ Studies show that the quality of the information collected during an elicitation
   
 ![image](https://user-images.githubusercontent.com/49622433/116079738-2b675780-a666-11eb-903e-eb20f791ea52.png)
 
+Our results show that we can predict user engagement! Better yet voice alone give us desirable results.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+Our Replication Package can be found here!
+ [Replication Package](https://github.com/alessioferrari/VoiceBiofeedEmo)
