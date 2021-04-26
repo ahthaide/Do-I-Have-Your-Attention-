@@ -18,5 +18,8 @@ Our results show that we can predict user engagement! Better yet voice alone giv
 
 
 
-Our Replication Package can be found here.
- [Replication Package](https://github.com/alessioferrari/VoiceBiofeedEmo)
+Our work and the replication package can be found in the following links:
+ [Pre-print](https://www.researchgate.net/publication/350674114_Using_Voice_and_Biofeedback_to_Predict_User_Engagement_during_Requirements_Interviews)
+ [RE Paper](https://ieeexplore.ieee.org/abstract/document/9218155)
+  [Replication Package](https://github.com/alessioferrari/VoiceBiofeedEmo)
+ 
