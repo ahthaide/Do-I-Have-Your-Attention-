@@ -18,8 +18,10 @@ Our results show that we can predict user engagement! Better yet voice alone giv
 
 
 # Our Work
-Our work and the replication package can be found in the following links:
+  Pre-Print: Using Biofeedback to Predict User Engagement during Requirement Interviews
  [Pre-print](https://www.researchgate.net/publication/350674114_Using_Voice_and_Biofeedback_to_Predict_User_Engagement_during_Requirements_Interviews)
+ Re Paper: The Way it Makes you Feel. Predicting Users' Engagement during Interviews with Biofeedback and Supervised Learning
  [RE Paper](https://ieeexplore.ieee.org/abstract/document/9218155)
-  [Replication Package](https://github.com/alessioferrari/VoiceBiofeedEmo)
+ Replication Package for this project:
+ [Replication Package](https://github.com/alessioferrari/VoiceBiofeedEmo)
  
